@@ -13,6 +13,11 @@ a:visited {
 	color: #0000ff;
 }
 
+footer {
+	text-align: center;
+	margin-top: 1.5em;
+}
+
 .clear {
 	clear: both;
 }
