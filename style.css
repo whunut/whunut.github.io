@@ -4,10 +4,21 @@ body {
     padding: 0;
 }
 
+.clear {
+	clear: both;
+}
+
 #wrapper {
     width: 40%;
     margin: 0 auto;
     text-align: center;
+}
+
+#rapper {
+	font-family: "Courier New", monospace;	
+	text-align: center;
+	margin-top: 20px;
+	letter-spacing: 1.5em;
 }
 
 #avatar {
