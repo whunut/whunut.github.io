@@ -9,6 +9,10 @@ a {
 	margin-bottom: 10px;
 }
 
+a:visited {
+	color: #00ff00;
+}
+
 .clear {
 	clear: both;
 }
